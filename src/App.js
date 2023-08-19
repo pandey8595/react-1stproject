@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-const a="HOME"
+const a="LUND"
 
   return (
     <>
